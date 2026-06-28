@@ -14,7 +14,7 @@ I make tools that get people unstuck — whether that's a stalled AI coding sess
 
 **[ShardStitch](https://shardstitch.com)** — *Restart or switch AI coding sessions without losing context.*
 
-> 🚀 **Launching on Product Hunt — June 25.**
+> 🚀 **Launching on Product Hunt — July 1st.**
 
 When Claude, Codex, Gemini, or Cursor gets bloated, rate-limited, or frozen mid-task, you shouldn't have to explain the whole project again. ShardStitch is a 100% local context recovery layer that reads what's already on disk — git diff, changed files, dependency graph, notes — *plus the conversation itself* — and builds a clean handoff for the next session. Restart in the same tool, or switch to another, with the work intact.
 
