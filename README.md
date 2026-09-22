@@ -17,7 +17,7 @@ I make tools that get people unstuck — whether that's a stalled AI coding sess
 When Claude, Codex, Gemini, or Cursor gets bloated, rate-limited, or frozen mid-task, you shouldn't have to explain the whole project again. ShardStitch is a 100% local context recovery layer that reads what's already on disk — git diff, changed files, dependency graph, notes — *plus the conversation itself* — and builds a clean handoff for the next session. Restart in the same tool, or switch to another, with the work intact.
 
 - 🔒 **100% on-device** — no cloud routing, no telemetry, no lock-in
-- 🔁 **23 AI tools supported** — hand off to the next tool in under 30 seconds
+- 🔁 **31 AI tools supported** — hand off to the next tool in under 30 seconds
 - 🧠 **Reads disk, not the AI** — works *after* you're already locked out
 - 🗄️ **Your conversation survives** — the local vault outlasts crashes, rate limits, and accidental deletion
 - ♾️ **Pay once, own forever** — no subscriptions
